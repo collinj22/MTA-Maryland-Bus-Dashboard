@@ -1,0 +1,6 @@
+matplotlib
+pandas
+bs4
+pyprind
+openpyxl
+bokeh
