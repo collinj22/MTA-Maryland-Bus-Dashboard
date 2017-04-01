@@ -4,3 +4,4 @@ bs4
 pyprind
 openpyxl
 bokeh
+-e git+https://github.com/axyjo/gtfs-realtime-bindings.git@afd68ef2093d14c1e7bdabb86ef2b88b5b800815#egg=gtfs_realtime_bindings
